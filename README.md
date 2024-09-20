@@ -27,3 +27,17 @@ This repository contains the submission for the homework assignment covering LaT
 
 ### Link to GitHub Issue:
 [Link to the GitHub Issue](https://github.com/habodoni/Homework1-Todo-List/issues/1)
+
+## New Homework Submission
+In addition to the previous homework, this repository now includes the submission for a new homework assignment.
+
+### New Part: Class Diagrams and Code (Updated Homework)
+- **UML Exercises:** 4 UML Diagram exercises have been solved and incorporated into the PDF.
+- **Updated UML Class Diagrams:** The repository now contains updated class diagrams reflecting modifications in the new assignment.
+- **Code Submission:** New LaTeX code has been added, along with figures and diagrams used in the class modeling exercises.
+
+### PDF of New Homework Submission:
+[Link to the PDF file of the updated Homework submission](https://github.com/habodoni/Homework1-Todo-List/blob/main/HomeworkManual9_19.pdf)
+
+## Repository Links:
+- [Repository Link](https://github.com/habodoni/Homework1-Todo-List)
